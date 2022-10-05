@@ -28,6 +28,8 @@ namespace progetto_secondo
         {
             progressBar1.Maximum = 10;
             progressBar1.Minimum = 0;
+
+            lblCIAO.Text = "CIAONE";
         }
     }
 }
